@@ -22,6 +22,7 @@ export default {
   margin-bottom: 15px;
   border-bottom: 1px solid rgb(171, 178, 241);
   background-color: #ddd;
+  z-index: 100;
 }
 
 .navbar_item {

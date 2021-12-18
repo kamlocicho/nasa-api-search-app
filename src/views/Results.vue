@@ -85,11 +85,18 @@ export default {
   grid-gap: 10px;
   align-items: center;
   justify-content: center;
-  margin-top: 50px;
 }
 .grid_item {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.grid_item:hover {
+  filter: brightness(50%);
+}
+
+.container {
+  margin-top: 8rem;
 }
 </style>

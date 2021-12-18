@@ -40,6 +40,7 @@ a {
   width: 70px;
   height: 70px;
   animation: spin 2s linear infinite;
+  margin-top: 50px;
 }
 
 @keyframes spin {

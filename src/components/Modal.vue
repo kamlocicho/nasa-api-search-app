@@ -40,6 +40,7 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 100;
 }
 
 .modal {
@@ -48,6 +49,7 @@ export default {
   overflow-x: auto;
   display: flex;
   flex-direction: column;
+  z-index: 101;
 }
 
 .modal-header,
